@@ -1,0 +1,9 @@
+{
+  "name": "graphQL",
+  "version": "1.0.0",
+  "description": "Learn GraphQl",
+  "main": "index.js",
+  "repository": "https://github.com/miknibus/graphQL",
+  "author": "Subin Kim <miknibs743@gmail.com>",
+  "license": "MIT"
+}
